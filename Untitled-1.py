@@ -1,2 +1,2 @@
-print("hola mundo python")  
+print("hola mundo python"plñol)  
 print("ingrese:", edad)
